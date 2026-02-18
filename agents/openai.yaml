@@ -1,0 +1,3 @@
+display_name: Personal Continual Memory
+short_description: Persist and reuse curated coding memory across repos.
+default_prompt: Use continual memory for this task: sync local context, capture curated notes, and compact repo memory.
